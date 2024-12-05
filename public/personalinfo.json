@@ -1,0 +1,11 @@
+{
+    "name": "Aria",
+    "lastName": "Chalipa",
+    "age": 23,
+    "email": "aria.chalipa.2002@gmail.com",
+    "phone": "00 000 00 00",
+    "picture":"https://avatars.githubusercontent.com/u/104375858?s=400&u=93f0e7ae961c0f289be91e117e848688907a5d06&v=4",
+    "about": "I born in a small city in the north of the country. I love to learning new things and coding. i work in web development field i really hope to be a good developer in the future.",
+    "skills": ["JavaScript", "Vue.js", "HTML", "CSS", "Nuxt", "Golang","Gin", "SQL", "Sass","Talwind","Bootstrap","Jquery"]
+
+  }
